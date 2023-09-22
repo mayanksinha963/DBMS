@@ -1,0 +1,11 @@
+What is Data ?
+Data is collection of raw, unothorized facts and details like text, figure, symbols, observation and descriptions of things etc.
+In other words, data does not carry any specific purpose and has no significance by itself.
+
+Morover, data is measured in terms of bits/ bytes- which is basic unit of measurement in terms of computer storage and processing.
+Data can be recorded and does not have meaning unless processed.
+
+Types of Data
+	1. Quantative
+	2. Qualitative
+
