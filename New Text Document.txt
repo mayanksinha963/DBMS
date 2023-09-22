@@ -9,3 +9,29 @@ Types of Data
 	1. Quantative
 	2. Qualitative
 
+What is information ?
+a. Information is organised, processed and structured data.
+b. It provide context of data and enable decision making.
+c. Processed data that make sense.
+d. Information is extracted from the data, analyze and intrupting the peice of data.
+e. E.g. you have data of all the people live in your locality, its data after analyze and intercepting the and come to conclusion.
+	i. There are 100 senior citizen.
+	ii. The sex ratio is 1.1.
+	iii. There are 100 new born babies
+		That is called information.
+
+
+Difference between data and information ?
+a. Data is collection of fact while information put those facts into context.
+b. While data is raw and unorganized, information is organized.
+c. Data points are individual and sometimes unrelated. Information map the data to provide big picture view of how it all fit togethre.
+d. Data, on its meaningless. When it analyzed and interpreted it become meaningful information.
+e. Data does not depend on information however information depend on data.
+f. Data typically comes in form of graph, number, symbol, figure whereas information typically comes in form of ideas, thoughts, stories, words.
+g. Data is not sufficient for design making but you make decision based on information.
+
+
+What is Database ?
+a. Database is a electronic place/system where data can be accessed easily, managed and updated.
+b. To make real use of Data, we need Database Management System.
+                                                 
