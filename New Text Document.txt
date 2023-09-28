@@ -35,3 +35,38 @@ What is Database ?
 a. Database is a electronic place/system where data can be accessed easily, managed and updated.
 b. To make real use of Data, we need Database Management System.
                                                  
+
+What is DBMS ?
+a. A database Management System is a collection of interrelated data and set of program to access those data. The collection of data, usually referred to as the database contains information related to eterprises. The primary goal of DBMS is to provide a way to store and retrive database information in efficient and conveninent.
+b. A DBMS is a database itself, along with all the software and functionlity. It is used to perform different operations like addition, access , uploading and deletion of data.
+
+File Processing System has major disadvantage over DBMS.
+a) Data redundancy and inconsistency.
+b) Difficult in accesing the data.
+c) Data isolation.
+d) Atomic Problem
+e) Integrity problems
+f) Concurrent accessing anamolies
+g) Security Problem
+
+		DBMS Architecture
+1. View of Data (Three Schema Architecture)
+a. The major purpose of DBMS is to provide user with a abstract view. That is the system hide the certain details of how the data is store and maintained.
+b. To simplify user interaction with system, abstraction is applied in several level of intraction.
+c. The main objective of three level architecture is to enable multiple user access the same data with personalized view while storing the underlying data once.
+d. Physical Level/ Internal Level
+	i. It is lowest level of abstraction describes how the data is stored.
+	ii. Low level of Data Structrue is used.
+	iii. It has the phyiscal schema which describes physical storage structure of DB.
+	iv. Talk about: Storage allocation, data compression & encryption etc.
+	v. Goal : We must define algorithm that allow efficient access to data.
+e. Logical Level/ Conceptual Level
+	i. The conceptual schema describe the design of databse at conceptual level, describe what the data is store in DB and relationship exists among those data.
+	ii. User at logical level abstraction does not need aware about phyiscal level structure.
+	iii. DBA, who must decide what the data kept in DB use logical level of abstraction.
+	iv. Goal : Ease to use
+f. View Level/ External Level
+	i. Highest level of abstraction aims to simplify user interaction with system by providing different view to different end user.
+	ii. Each view schema describe the database part of the particualr group user interested and hides the remaing data from that user group.
+	iii. At external level, a database contain several schema that sometimes called sub schema. Subschema describe the different views of database
+	iv. At view also provide security mechanism to pervent user to access certain parts of DB.
