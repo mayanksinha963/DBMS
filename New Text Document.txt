@@ -70,3 +70,13 @@ f. View Level/ External Level
 	ii. Each view schema describe the database part of the particualr group user interested and hides the remaing data from that user group.
 	iii. At external level, a database contain several schema that sometimes called sub schema. Subschema describe the different views of database
 	iv. At view also provide security mechanism to pervent user to access certain parts of DB.
+
+2. Instance and Schema
+a. The collection of information stored in DB at a particular moment is called instance of schema.
+b. Overall design of the DB is called schema.
+c. The schema is structural discription of data. The schema doesn't change frequently. Data may be change frequently.
+d. DB Schema corresponds to variable declaration in program.
+e. We have 3 types of schema : Physical Schema, Logical Schema and several View schema called sub schema.
+f. Logical schema is most important schema in terms of effect on application program. As a programmer construct app by logical schema.
+g. Phyiscal data independence, phyiscal schema change does not affect on logical schema/application program.
+
