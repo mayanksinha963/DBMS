@@ -80,3 +80,22 @@ e. We have 3 types of schema : Physical Schema, Logical Schema and several View 
 f. Logical schema is most important schema in terms of effect on application program. As a programmer construct app by logical schema.
 g. Phyiscal data independence, phyiscal schema change does not affect on logical schema/application program.
 
+3. Data Models
+a. Provide a way to describe the design of DB at logical level.
+b. Underlying the structur of DB is the data model, collection of conceptual tools for describing the data, data relationship, data semantics & consistency constraits.
+c. Example. Er Models, Relational Model, Object- Oriented Models, Object relational models etc.
+
+4. Database Language
+a. Data Definition Language (DDL) specify the database schema.
+b. Data Manipulation Language (DML) to express database query and updates.
+c. Practically, both language features are available in single DB Language such as SQL.
+d. DDL 
+	i. We specify consistency constrant, we must checked every time DB is updated.
+e. DML
+  i. Data Manipulation involves
+	a. Retrival of information stored in DB.
+	b. Deletion of information from the DB.
+	c. Insertion of new information into the DB.
+	d. Updating the existed information stored in DB.
+  ii. Query langauge, a part of DB specify statement requesting the retrival of information.
+
