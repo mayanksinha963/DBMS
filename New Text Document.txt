@@ -99,3 +99,10 @@ e. DML
 	d. Updating the existed information stored in DB.
   ii. Query langauge, a part of DB specify statement requesting the retrival of information.
 
+5. How Database Accessed from the Application.
+a. Application (written in host language) interact with DB.
+b. Eg. Banking System Module generating payroll access DB by executing the DDL statement from Host Language.
+c. API is provided to send DML/DDL statements to DB and retrive the results.
+	i. Open Database Connectivity, ODBC, Microsoft.
+	ii. Java Database Connectivity, JDBC, Java.
+
