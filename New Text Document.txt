@@ -142,9 +142,13 @@ Types of Attribute
 	c. Users can refer the whole attribute or the component of the attribute.
 3. Single- valued
 	a. Only one value attribute
-	b. eg. Student id, loan number. ,
+	b. eg. Student id, loan number. 
 4. Multiple valued
+	a. Attribute having more than one value.
+	b. For eg. phone number, nominee name for some insurance etc.
+	c. Limit constraints may be applied upper limit or lower limit.
 5. Derived
+	a. Value of this attribute derived from the value of other related attribute.
 6. NULL value
 
 
