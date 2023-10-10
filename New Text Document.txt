@@ -149,7 +149,13 @@ Types of Attribute
 	c. Limit constraints may be applied upper limit or lower limit.
 5. Derived
 	a. Value of this attribute derived from the value of other related attribute.
+	b. e.g. Age, Loan Age, Member Ship period
 6. NULL value
+	a. Attribute take null value when entry doesn't have value for it.
+	b. It may indicate 'not applicable' mean value is not exist for it for eg. person is having no mid name.
+	c. It may indicate unkown
+		i. Unkown indicates that entry is missing e.g. name of customer is NULL means it is measing as name must have some value.
+
 
 
 
