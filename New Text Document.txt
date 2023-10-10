@@ -106,3 +106,32 @@ c. API is provided to send DML/DDL statements to DB and retrive the results.
 	i. Open Database Connectivity, ODBC, Microsoft.
 	ii. Java Database Connectivity, JDBC, Java.
 
+6. Database Administrator
+a. A person who can central control of both the data and a program that can access those data.
+b. Functions of DBA.
+	i. Schema definition.
+	ii. Storage structure and access method
+	iii. Schema and physical organization modification.
+	iv. Authorization control.
+	v. Routine maintainance
+		a. Periodic backups
+		b. Security patches
+		c. Any upgrades
+
+            Entity- Relationship Model
+Data Model :- Collection of conceptual data for discribing data, data relationship, data semantics and consistency constraints.
+ER Model
+1. ER model is a high level Data Model based on the perception of real world that consists of collection of basic object called entities and relationship among them.
+2. Graphical representation of ER Model is known as ER diagram, which act as blueprint of DB.
+
+3. Entity :- Entity is a thing or object in the real world that distinguishable from the other object.
+	i. It has phyiscal existance.
+	ii. Entity can be uniquely classified (called primary key, aka primary attribute).
+	iii. Strong Entity :- Can be uniquely classified.
+	iv. Weak Entity :- Can't be uniquely classified.
+	v. Weak Entity depend upon strong entity for existance.
+4. Entity set :- It is a set of entity of same type that share the same properities or attributes.
+
+
+
+
