@@ -132,6 +132,20 @@ ER Model
 	v. Weak Entity depend upon strong entity for existance.
 4. Entity set :- It is a set of entity of same type that share the same properities or attributes.
 
+Types of Attribute
+1. Simple
+	a. Attribute which can't be divide further
+	b. Student's Roll number, Customer account number
+2. Composite
+	a. Can be divide further (that is, other attribute)
+	b. For ex. Name is divided into first name, middle and last name.
+	c. Users can refer the whole attribute or the component of the attribute.
+3. Single- valued
+	a. Only one value attribute
+	b. eg. Student id, loan number.
+4. Multiple valued
+5. Derived
+6. NULL value
 
 
 
