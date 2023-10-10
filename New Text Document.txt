@@ -142,7 +142,7 @@ Types of Attribute
 	c. Users can refer the whole attribute or the component of the attribute.
 3. Single- valued
 	a. Only one value attribute
-	b. eg. Student id, loan number.
+	b. eg. Student id, loan number. ,
 4. Multiple valued
 5. Derived
 6. NULL value
