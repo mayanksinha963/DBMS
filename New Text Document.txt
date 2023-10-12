@@ -170,5 +170,13 @@ Types of Attribute
 	d. Ternary, Three entities participate. For eg. Employee work on job.
 	e. Binary relationships are common.
 
+7. Participation Constraints
+	a. Aka, minimum cardinality constraints.
+	b. Types, total and partial.
+	c. Total participation : each entity must be involved with atleast one relationship instance.
+	d. Partial participation : not all entities are involved in relationship instance.
+	e. For eg. Customer takes loan, loan is a total participation as it can't exist without customer but customer is a partial participation.
+	f. Weak entity has a total pariticipation but strong entity may be total participatio.
+
 
 
