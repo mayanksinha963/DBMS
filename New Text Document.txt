@@ -162,7 +162,13 @@ Types of Attribute
 	b. For eg. Person has cars, Person has child, Loan for shoping etc.
 	c. Strong relationships - between two different entities.
 	d. Weak relationships - between two weak entities and depend on strong entities.
-
+		Loan < installment payment > payment
+	Degree of Relationships
+	a. No. of entities participating in relationships.
+	b. Unary, Only one entity participate. For eg. employee manages employee.
+	c. Binary, Two entities participate. For eg. Student takes course.
+	d. Ternary, Three entities participate. For eg. Employee work on job.
+	e. Binary relationships are common.
 
 
 
