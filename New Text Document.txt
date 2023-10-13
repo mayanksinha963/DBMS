@@ -179,4 +179,20 @@ Types of Attribute
 	f. Weak entity has a total pariticipation but strong entity may be total participatio.
 
 
+		Extended ER features 
+When complexity increases, it is better to use extended ER features for better DB Schema.
+
+Specialisation
+	a. In ER model, we may reqire to subgroup an entity set into other entity that distinct with some way with other entity set.
+ 	b. Speicalisation, splitting the entity set into sub entity set depend upon the feautes, specialities, functionalities.
+	c. It is top- down approach.
+	d. For eg. Person entity set can be divided into employee, student, customer etc. Here Person is super set and speciality entity is sub set.
+		i. We have 'is-a' relationship between super set and sub set.
+		ii. Depicted by triangle.
+	Why we require specialisation ?
+	a. Certain attribute may only application few entities of parent entities set.
+	b. DB Designer can show distinctive feautres of DB Schema.
+	c. To group such entities we have specialisation, to overall refine DB schema.
+
+
 
