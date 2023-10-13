@@ -204,6 +204,16 @@ Generalisation
 		i. Make DB more refined and simplier.
 		ii. Common attribute are not repeated.
 
+Attribute Inheritance
+	a. Both generalisation and specialisation has attribute inheritance.
+	b. Attribute of high level entity sets aer inherit by low level entity set.
+	c. For e.g. Employee, Student inherit the attribute of person.
+
+Aggregation
+	a. How to show relationship among relationship ? Aggregation is a technique.
+	b. Abstraction is applied to treat relationship as higher level entity. We can call it abstract entity.
+	c. Avoid redundancy by aggregating relationship as an entity itself.
+
 
 
 
