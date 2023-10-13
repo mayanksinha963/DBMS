@@ -187,12 +187,23 @@ Specialisation
  	b. Speicalisation, splitting the entity set into sub entity set depend upon the feautes, specialities, functionalities.
 	c. It is top- down approach.
 	d. For eg. Person entity set can be divided into employee, student, customer etc. Here Person is super set and speciality entity is sub set.
-		i. We have 'is-a' relationship between super set and sub set.
+		i. We have 'is-a' relationship between super class and sub class.
 		ii. Depicted by triangle.
 	Why we require specialisation ?
 	a. Certain attribute may only application few entities of parent entities set.
 	b. DB Designer can show distinctive feautres of DB Schema.
 	c. To group such entities we have specialisation, to overall refine DB schema.
+
+Generalisation
+	a. It's reverse of specialisation.
+	b. DB designer may encouter some certain properties of two entities are overlapping. Designer may consider a new generalised entity. The generalised entity is known as superclass.
+	c. We have 'is-a' relationship between superclass and sub class.
+	d. eg. Car, Jeep and Bus all have some common attribute. To avoid data repetition for the common attribute. Designer may considered a generalised new entity name as 'vehicle'.
+	e. It is bottom - top approach.
+	f. Why generalisation ?
+		i. Make DB more refined and simplier.
+		ii. Common attribute are not repeated.
+
 
 
 
