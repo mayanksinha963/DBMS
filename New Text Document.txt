@@ -216,4 +216,14 @@ Aggregation
 
 
 
+		Relational Model
+1. Relational Model organise the data in the form of relation (tabular form).
+2. Relatinal DB is a collection of tables and each of these assigned a unique name.
+3. A row in table represent the relationship among the set of values and table is a collection of such relationships.
+4. Tuple : A single row of data represent the single data point/ unique records.
+5. Columns : Each columns represent the attribute of the relation. Each attribute allow the permitted value known as domain of the attribute.
+6. Relational Schema : Relational Schema defines the design and structure of the relations, contain the name of the relation and all the attribute/ columns.
+7. Degree of table : No. of given columns/ attribute in a given relations/table.
+8. Relational key : A set of attribute which can uniquely identify each tuple.
+9. Cardinality : Total number of tuples in a relation.
 
